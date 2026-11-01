@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Bottle glass body -->
+    <path
+        android:fillColor="#33FFFFFF"
+        android:strokeColor="#E0F2FE"
+        android:strokeWidth="3"
+        android:pathData="M44,24 L64,24 L64,32 L68,40 L68,78 C68,84.6 62.6,90 56,90 L52,90 C45.4,90 40,84.6 40,78 L40,40 L44,32 Z" />
+    <!-- Bottom water layer (Sky Blue) -->
+    <path
+        android:fillColor="#0EA5E9"
+        android:pathData="M42,68 L66,68 L66,78 C66,83.5 61.5,88 56,88 L52,88 C46.5,88 42,83.5 42,78 Z" />
+    <!-- Middle water layer (Amber Gold) -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M42,54 L66,54 L66,68 L42,68 Z" />
+    <!-- Top water layer (Coral Rose) -->
+    <path
+        android:fillColor="#F43F5E"
+        android:pathData="M42,42 L66,42 L66,54 L42,54 Z" />
+</vector>

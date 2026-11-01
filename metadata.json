@@ -1,0 +1,6 @@
+{
+  "name": "Water Sort Puzzle Master",
+  "description": "Colorful liquid sorting puzzle game with smooth glass bottle physics, pouring animations, and native Android Jetpack Compose architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

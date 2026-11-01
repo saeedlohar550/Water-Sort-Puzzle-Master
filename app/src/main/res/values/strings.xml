@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Water Sort Puzzle Master</string>
+    <string name="welcome_title">WELCOME TO WATER SORT PUZZLE MASTER</string>
+    <string name="undo">Undo</string>
+    <string name="restart">Restart</string>
+    <string name="next_level">Next Level</string>
+    <string name="level_complete">Level Complete!</string>
+</resources>
